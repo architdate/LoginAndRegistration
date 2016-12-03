@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "381372486983",
+    "firebase_url": "https://iotstartfirebase.firebaseio.com",
+    "project_id": "iotstartfirebase",
+    "storage_bucket": "iotstartfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381372486983:android:5a33d0c3064ee137",
+        "android_client_info": {
+          "package_name": "com.example.test.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381372486983-pj4ae0kme698qrrpf0no04j4lr0bsgc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYoBikuvzZ6e-U7eHGXu69AMzlDCXfbWA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
